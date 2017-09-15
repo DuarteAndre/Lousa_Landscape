@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Master Thesis
 
-You can use the [editor on GitHub](https://github.com/DuarteAndre/Lousa_Landscape/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The desertion of the rural place coupled with the intensification of the forest management and dramatic fires are responsible for the greatest alterations in our landscapes. This study was conducted in a region of central Portugal, Lousã, with an area of 13 841 ha and it aims to characterize the patches of native and invasive broadleaves and also, to study its relationship with biophysical and anthropogenic
+variables.
 
 ### Markdown
 
